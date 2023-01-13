@@ -3,8 +3,8 @@ package com.driver;
 public class Main {
 
     public  static void main(String[] args) {
-        A object= new B();
-        object.meth();
+        A obj= new B();
+        obj.meth();
     }
 
     public static class A{
